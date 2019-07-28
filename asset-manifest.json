@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/redux-epics-test/static/js/main.41849c62.chunk.js",
+    "main.js.map": "/redux-epics-test/static/js/main.41849c62.chunk.js.map",
+    "runtime~main.js": "/redux-epics-test/static/js/runtime~main.a34d4e5f.js",
+    "runtime~main.js.map": "/redux-epics-test/static/js/runtime~main.a34d4e5f.js.map",
+    "static/js/2.44ff4477.chunk.js": "/redux-epics-test/static/js/2.44ff4477.chunk.js",
+    "static/js/2.44ff4477.chunk.js.map": "/redux-epics-test/static/js/2.44ff4477.chunk.js.map",
+    "index.html": "/redux-epics-test/index.html",
+    "precache-manifest.324750e93d8c1527c3c6af3fd7560cef.js": "/redux-epics-test/precache-manifest.324750e93d8c1527c3c6af3fd7560cef.js",
+    "service-worker.js": "/redux-epics-test/service-worker.js"
+  }
+}
